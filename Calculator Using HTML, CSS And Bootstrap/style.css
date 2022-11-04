@@ -19,6 +19,7 @@ body {
     margin: 0 3px;
     border: 2px solid black;
     border-radius: 9px;
+    background-color: rgb(204, 197, 197);
     cursor: pointer;
 }
 
@@ -50,4 +51,12 @@ body {
 .btn3 {
     background-color: purple;
     color: white;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
